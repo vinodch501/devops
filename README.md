@@ -1,4 +1,2 @@
 # devops techniques
-12
-2333
-24
+2
